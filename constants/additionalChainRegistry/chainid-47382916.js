@@ -15,11 +15,11 @@ export const data = {
   "shortName": "unp",
   "chainId": 47382916,
   "networkId": 47382916,
-  "icon": "https://unipoly.network/favicon.ico",
+  "icon": "https://beeimg.com/images/n93299556951.png",
   "explorers": [{
     "name": "UNP Chain Explorer",
     "url": "https://explorer.unpchain.com",
-    "icon": "https://unipoly.network/favicon.ico",
+    "icon": "https://beeimg.com/images/n93299556951.png",
     "standard": "EIP3091"
   }]
 }
